@@ -1,6 +1,15 @@
-# Oshop
+# Real-time e-commerce application
+Buili and deploy a real-time e-commerce application with Angular 4, Firebase 4 and Bootstrap 4:
+
+- Master/detail
+- CRUD operations
+- Forms with custom validation
+- Searching, sorting and pagination
+- Authentication and authorization 
+- And a lot more! 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
+
 
 ## Development server
 
